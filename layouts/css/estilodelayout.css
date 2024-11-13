@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.principal
+{
+display: flex ;
+justify-content: space-between;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: blanchedalmond;
+}
+
+.lateral 
+{
+border: 0;
+padding: 0;
+height: 1000px;
+width: 75px;
+background-color: red;
+}
+
+.lateraldireita
+{
+border: 0;
+bottom: 500px;
+padding: 0;
+height: 1000px;
+width: 75px;
+background-color: red;
+}
