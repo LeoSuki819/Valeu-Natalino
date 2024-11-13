@@ -4,10 +4,31 @@
     box-sizing: border-box;
 }
 
-.principal img{
-    width: 150px;
+.principal
+{
+display: flex ;
+justify-content: space-between;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: blanchedalmond;
 }
 
-.lateral{
-    display: flex;
+.lateral 
+{
+border: 0;
+padding: 0;
+height: 1000px;
+width: 75px;
 }
+
+.lateraldireita
+{
+border: 0;
+bottom: 500px;
+padding: 0;
+height: 1000px;
+width: 75px;
+}
+
+
